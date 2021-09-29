@@ -1,7 +1,7 @@
 # Video-Player-UI-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is single-page video player interface that lets you watch videos. 
+This is single-page video player interface that lets you watch videos. I made it with plain JavaScript.
 
 This program will:
 
